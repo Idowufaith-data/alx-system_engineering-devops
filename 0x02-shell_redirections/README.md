@@ -103,9 +103,9 @@ to Z and e respectively.
 * **23. Empty casks make the most noise**
   * [100-empty_casks](./100-empty_casks): Write a shell script that finds all empty files
   and directories in the current directory and all sub-directories as follows:
-    * Only the names of the files and directories are displayed.
-    * Hidden files included.
-    * One file name per line.
+   * Only the names of the files and directories are displayed.
+   * Hidden files included.
+   * One file name per line.
 
 * **24. A gif is worth ten thousand words**
   * [101-gifs](./101-gifs): Write a shell script that lists all the files with a .gif 
