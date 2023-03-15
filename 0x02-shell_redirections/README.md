@@ -110,11 +110,11 @@ to Z and e respectively.
 * **24. A gif is worth ten thousand words**
   * [101-gifs](./101-gifs): Write a shell script that lists all the files with a .gif 
  extension in the current directory and all its sub-directories as follows:
-    * Hidden files included.
-    * Only regular files (not directories) listed.
-    * File names displayed without extensions.
-    * Files sorted by byte values, but case insensitive.
-    * One file name per line.
+   * Hidden files included.
+   * Only regular files (not directories) listed.
+   * File names displayed without extensions.
+   * Files sorted by byte values, but case insensitive.
+   * One file name per line.
 
 * **25. Acrostic**
   * [102-acrostic](./102-acrostic): Write a shell script that decodes acrostics that use the 
