@@ -1,7 +1,7 @@
 # ALX-SYSTEM_ENGINEERING-DEVOPS
 
-This repository contains the code written for the system and engineering devops project 
-at ALX Africa. This project was one of the many projects I worked on during the one year 
+This repository contains the code written for the system and engineering devops project at 
+ALX Africa. This project was one of the many projects I worked on during the one year
 program, I learned about shell basics, shell permissions, shell I/O redirections, filters 
 and shell init files, variables and expansions.
 
