@@ -43,11 +43,11 @@ and the alias command; its syntax and uses.
   * [9-divide_and_rule](./9-divide_and_rule): Write a shell script that prints the result of 
  POWER divided by DIVIDE. POWER and DIVIDE are environment variables.
 
-* **10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+* **10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath**
   * [10-love_exponent_breath](./10-love_exponent_breath): Write a shell script that displays the
   result of BREATH to the power of LOVE. BREATH and LOVE are environment variables.
 
-* **11. There are 10 types of people in the world -- Those who understand binary, and those who do not
+* **11. There are 10 types of people in the world -- Those who understand binary, and those who do not**
   * [11-binary_to_decimal](./11-binary_to_decimal): Write a shell script that converts a number in base 
  2 stored in the environment variable `BINARY` to base 10.
 
