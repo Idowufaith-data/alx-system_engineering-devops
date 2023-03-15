@@ -54,9 +54,9 @@ and the alias command; its syntax and uses.
 * **12. Combination**
   * [12-combinations](./12-combinations): Write a shellscript that prints all possible combinations
   of two letters, except oo, as follows:
-    * Letters are lower cases, from a to z.
-    * One combination per line.
-    * Alpha-ordered.
+  * Letters are lower cases, from a to z.
+  * One combination per line.
+  * Alpha-ordered.
 
 * **13. Floats**
   * [13-print_float](./13-print_float): Write a shell script that prints a number stored in the
